@@ -44,7 +44,7 @@ Dataset is available in DB.zip encompassing 10 categories (Banana, Custard Apple
 If you use this code in your research, please cite this project.
 
 ```
-@article{shapeDefense2020,
+@article{Borji_Hybrid_2022,
   title={CNNs and Transformers Perceive Hybrid Images Similar to Humans},
   author={Borji, Al},
   journal={Arxiv},
