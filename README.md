@@ -11,7 +11,6 @@ A hybrid images has two coherent global image interpretations, one of which is o
 
 
 
-
 ## Usage
 
 
@@ -34,16 +33,22 @@ https://github.com/rhthomas/hybrid-images
 
 
 
+## Dataset
+
+Dataset is available in DB.zip encompassing 10 categories (Banana, Custard Apple, Fig, Granny Smith, Jackfruit, Lemon, Orange, Pineapple, Pomegranate, and Strawberry) with 10 images per category.
+
+
+
 ## Citation
 
 If you use this code in your research, please cite this project.
 
 ```
 @article{shapeDefense2020,
-  title={Shape Defense},
+  title={CNNs and Transformers Perceive Hybrid Images Similar to Humans},
   author={Borji, Al},
-  journal={xx},
-  year={2020}
+  journal={Arxiv},
+  year={2022}
 }
 ```
 
