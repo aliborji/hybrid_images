@@ -1,9 +1,14 @@
 # Hybrid Images
 
 
+A hybrid images has two coherent global image interpretations, one of which is of the low spatial frequencies, the other of high spatial frequencies. An example can be seen below:
+
 
 ![obj1](./12.jpeg) ![obj2](./13.jpeg)
 ![blended](./output.jpg)
+
+
+
 
 
 
@@ -26,3 +31,19 @@ Use the mass_hybrid(config) function to generate the datase (please see the code
 
 This code is a modified version of the original code at:
 https://github.com/rhthomas/hybrid-images
+
+
+
+## Citation
+
+If you use this code in your research, please cite this project.
+
+```
+@article{shapeDefense2020,
+  title={Shape Defense},
+  author={Borji, Al},
+  journal={xx},
+  year={2020}
+}
+```
+
